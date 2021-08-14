@@ -1,0 +1,10 @@
+C:\Users\A-h-m\source\repos\SpamApp\SpamApp\bin\Debug\SpamApp.exe.config
+C:\Users\A-h-m\source\repos\SpamApp\SpamApp\bin\Debug\SpamApp.exe
+C:\Users\A-h-m\source\repos\SpamApp\SpamApp\bin\Debug\SpamApp.pdb
+C:\Users\A-h-m\source\repos\SpamApp\SpamApp\obj\Debug\SpamApp.csprojAssemblyReference.cache
+C:\Users\A-h-m\source\repos\SpamApp\SpamApp\obj\Debug\SpamApp.Properties.Resources.resources
+C:\Users\A-h-m\source\repos\SpamApp\SpamApp\obj\Debug\SpamApp.SpamApp.resources
+C:\Users\A-h-m\source\repos\SpamApp\SpamApp\obj\Debug\SpamApp.csproj.GenerateResource.cache
+C:\Users\A-h-m\source\repos\SpamApp\SpamApp\obj\Debug\SpamApp.csproj.CoreCompileInputs.cache
+C:\Users\A-h-m\source\repos\SpamApp\SpamApp\obj\Debug\SpamApp.exe
+C:\Users\A-h-m\source\repos\SpamApp\SpamApp\obj\Debug\SpamApp.pdb
